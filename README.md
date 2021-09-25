@@ -5,7 +5,8 @@
 
 ### SKILLS: REACT / PYTHON / JS / HTML / CSS / JAVA / MONGODB / POSTGRESQL
 
-![icons8-linkedin-48](https://user-images.githubusercontent.com/86256424/134787167-8c847dd4-bb93-4251-9732-3b2a505c9312.png)
+![icons8-linkedin-48 (1)](https://user-images.githubusercontent.com/86256424/134787180-000e28e1-4f05-475d-ac61-94e9a53051bb.png)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n001ce&theme=dark&show_icons=true)
