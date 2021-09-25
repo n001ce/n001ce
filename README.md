@@ -3,4 +3,5 @@
 
 ### I'm a USAF veteran with experience in executive administration, security operations, and team cooperation. My passion is learning new frameworks and creating new applications for everyday use. I also enjoy wireframing, model design, and backend development.
 
+### SKILLS: REACT / PYTHON / JS / HTML / CSS / JAVA / MONGODB / POSTGRESQL
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n001ce&theme=dark&show_icons=true)
